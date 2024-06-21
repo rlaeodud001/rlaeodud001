@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rlaeodud001
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 discord: dark_sen_
 
 <!---
